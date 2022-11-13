@@ -20,8 +20,7 @@
   filter: invert(80%);
 }
 
-/* 重置 vxe-table 样式 */
-.vxe-button.type--button.theme--primary:hover,
+/* 重置 vxe-table 中 pager 样式 */
 .vxe-pager .vxe-pager--num-btn:not(.is--disabled).is--active {
   color: #fff !important;
 }
